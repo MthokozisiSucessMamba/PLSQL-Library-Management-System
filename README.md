@@ -31,17 +31,4 @@ The system manages books, library members, and book loans. It demonstrates diffe
 - Exception Handling
 - SQL Queries
 
-## Project Structure
 
-```text
-PLSQL-Library-Management-System/
-│
-├── database/
-│   ├── 01_create_tables.sql
-│   ├── 02_insert_data.sql
-│   ├── 03_procedures.sql
-│   ├── 04_functions.sql
-│   ├── 05_cursors.sql
-│   └── 07_package.sql
-│
-└── README.md
